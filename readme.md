@@ -3,7 +3,7 @@
 
 This Project is hosted using vercel(https://vidhyapathimeetapp.vercel.app/)
 
-Thnaks for Javascript Mastery for this amazing project
+Thanks for Javascript Mastery for this amazing project
 
 
 #
