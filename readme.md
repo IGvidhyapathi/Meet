@@ -3,6 +3,13 @@
 
 This Project is hosted using vercel(https://vidhyapathimeetapp.vercel.app/)
 
+Thnaks for Javascript Mastery for this amazing project
+
+
+#
+## <a name="links">🔗 Links</a>
+
+This project is entirely developed  with the help of this channel(https://www.youtube.com/@javascriptmastery)
 
 #
 ## <a name="tech-stack">⚙️ Tech Stack</a>
